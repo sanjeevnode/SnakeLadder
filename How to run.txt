@@ -1,0 +1,2 @@
+1. Install python and install pygame library
+2. Run this game
